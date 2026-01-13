@@ -24,7 +24,7 @@ StatePlus is designed to eliminate boilerplate, avoid unnecessary rebuilds, and 
 
 ```yaml
 dependencies:
-  stateplus: ^0.1.0-dev.1
+  stateplus: ^0.1.0-dev.2
 
 ```
 

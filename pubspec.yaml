@@ -1,7 +1,6 @@
 name: stateplus
-description: "A minimal, high-performance reactive state management and navigation solution for Flutter.
-StatePlus is designed to eliminate boilerplate, avoid unnecessary rebuilds, and unify  state + navigation into a single reactive system."
-version: 0.1.0-dev.1
+description: "A minimal, high-performance reactive state management and navigation solution for Flutter."
+version: 0.1.0-dev.2
 homepage: https://github.com/PravinKunnure/stateplus
 repository: https://github.com/PravinKunnure/stateplus.git
 
@@ -23,6 +22,7 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+
 
   # To add assets to your package, add an assets section, like this:
   # assets:

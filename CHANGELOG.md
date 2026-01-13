@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+
+## 0.1.0-dev.2
+- Minor documentation changes.
+
 ## 0.1.0-dev.1
 
 ### 🚀 Initial Developer Preview
